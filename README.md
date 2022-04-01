@@ -10,7 +10,7 @@ You are a Data analyst at Carrefour Kenya and are currently undertaking a projec
 
 Carrefour  is a French multinational retail corporation headquartered in Massy, France. The eighth-largest retailer in the world by revenue, it operates a chain of hypermarkets, groceries stores and convenience stores, which as of January 2021, comprises its 12,225 stores in over 30 countries including Kenya.
 
-## *Concepts displayed in this repository*
+## *Concepts displayed in this project*
 
 1.  Dimensionality Reduction 
 
