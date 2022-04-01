@@ -24,3 +24,14 @@ groups.
 3.  Association Rules
 
 4.  Anomaly Detection
+
+# *Technologies Used*
+
+R programming
+
+# *Contact Details*
+
+wendyoira@gmail.com
+
+# *License*
+[MIT](https://choosealicense.com/licenses/mit/)
