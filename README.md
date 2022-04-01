@@ -8,12 +8,7 @@ You are a Data analyst at Carrefour Kenya and are currently undertaking a projec
 
 ## *The context*
 
-Kira Plastinina is a Russian brand that is sold through a defunct chain of
-retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, 
-and Armenia. The brand’s Sales and Marketing team would like to understand
-their customer’s behavior from data that they have collected over the past year.
-More specifically, they would like to learn the characteristics of customer 
-groups.
+Carrefour  is a French multinational retail corporation headquartered in Massy, France. The eighth-largest retailer in the world by revenue, it operates a chain of hypermarkets, groceries stores and convenience stores, which as of January 2021, comprises its 12,225 stores in over 30 countries including Kenya.
 
 ## *Concepts displayed in this repository*
 
