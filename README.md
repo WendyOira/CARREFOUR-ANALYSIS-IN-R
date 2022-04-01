@@ -1,5 +1,6 @@
 # CARREFOUR-ANALYSIS-IN-R
 
+The documents were knit to pdf from R studio with Dimensionality reduction having 43 pages, Feature selection has 40 pages, Association analysis has 11 pages and Anomaly detection has 11 pages.
 
 ## *Define the question*
 
